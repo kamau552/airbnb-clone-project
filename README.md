@@ -4,6 +4,7 @@ Project Description
 This project is a full-stack clone of the popular accommodation booking platform AirBnB. The goal is to build a functional web application that allows users to browse property listings, view detailed property information, and complete bookings. The project will cover frontend development, backend APIs, database design, and deployment.
 
 Tech Stack
+
  • Frontend: HTML, CSS, JavaScript (React or similar framework)
  
  • Version Control: Git and GitHub
@@ -21,6 +22,7 @@ Design Goals
  • Prioritize mobile responsiveness
 
 Key Features
+
  • Property search and filtering
  
  • Detailed property viewing
@@ -38,10 +40,12 @@ Page and Description
  • Simple Checkout View: 	Streamlined payment and booking confirmation
  
 Importance of User-Friendly Design
+
 A well-designed booking system reduces friction in the user journey, increases conversion rates, and improves customer satisfaction. Clear navigation, intuitive interfaces, and responsive design are critical for success.
 
 Figma Design Specifications
 Color Styles:
+
  • Primary: #FF5A5F
  
  • Secondary: #008489
@@ -53,6 +57,7 @@ Color Styles:
  • Secondary Text: #717171
 
 Typography:
+
  • Primary Font: Circular, Medium (500), 16px
  
  • Headings: Circular, Bold (700), 24px-32px
@@ -60,7 +65,6 @@ Typography:
  • Secondary Text: Circular, Book (400), 14px
 
 3. Project Roles and Responsibilities
-Project Roles and Responsibilities
 
 • Project Manager:	Oversees timeline, coordinates team, manages deliverables
 
@@ -80,7 +84,9 @@ Project Roles and Responsibilities
 
 5. UI Component Patterns
 Planned Components
+
 1. Navbar
+   
    • Logo
    
    • Search bar
