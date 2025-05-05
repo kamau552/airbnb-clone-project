@@ -25,20 +25,20 @@ A full-stack clone of the popular accommodation booking platform **Airbnb**. Thi
 
 ## 🚀 Key Features
 
-- 🔍 **Property Search & Filtering**
-- 🏘️ **Detailed Property Viewing**
-- 🔒 **Secure Checkout Process**
-- 👤 **User Authentication**
+- **Property Search & Filtering**
+- **Detailed Property Viewing**
+- **Secure Checkout Process**
+- **User Authentication**
 
 ---
 
 ## 🧩 Primary Pages
 
-| Page                  | Description                                                                 |
-|-----------------------|-----------------------------------------------------------------------------|
-| 🏘️ Property Listings   | Grid display of available properties with search and filters               |
-| 🏡 Property Details    | Full property information, gallery, and booking form                       |
-| 💳 Simple Checkout     | Streamlined payment experience with booking confirmation                   |
+| Page                  | Description                                                              |
+|-----------------------|--------------------------------------------------------------------------|
+| Property Listings   | Grid display of available properties with search and filters               |
+| Property Details    | Full property information, gallery, and booking form                       |
+| Simple Checkout     | Streamlined payment experience with booking confirmation                   |
 
 ---
 
@@ -50,7 +50,7 @@ A smooth booking system reduces user friction, increases conversions, and enhanc
 
 ## 🎨 Figma Design Specifications
 
-### 🎨 **Color Styles**
+###**Color Styles**
 | Purpose         | Hex Code    |
 |-----------------|-------------|
 | Primary         | `#FF5A5F`   |
@@ -59,7 +59,7 @@ A smooth booking system reduces user friction, increases conversions, and enhanc
 | Main Text       | `#222222`   |
 | Secondary Text  | `#717171`   |
 
-### 🖋️ **Typography**
+###**Typography**
 - **Primary Font:** Circular
 - **Body Text:** Medium (500), 16px
 - **Headings:** Bold (700), 24px–32px
@@ -69,40 +69,40 @@ A smooth booking system reduces user friction, increases conversions, and enhanc
 
 ## 👥 Team Roles & Responsibilities
 
-| Role               | Responsibility                                                         |
-|--------------------|------------------------------------------------------------------------|
-| 🧠 Project Manager  | Oversees timeline, coordinates team, manages deliverables              |
-| 💻 Frontend Devs    | Implements UI, ensures responsiveness                                  |
-| 🗄️ Backend Devs     | Builds APIs, manages databases, business logic                         |
-| 🎨 Designers        | Creates mockups, manages design systems                                |
-| 🧪 QA/Testers       | Writes test cases, conducts testing, logs bugs                         |
-| ⚙️ DevOps Engineers | Manages deployment, CI/CD, infrastructure                              |
-| 📋 Product Owner    | Defines requirements, prioritizes features                             |
-| 🌀 Scrum Master     | Facilitates Agile process, removes blockers, organizes sprints         |
+| Role               | Responsibility                                                       |
+|--------------------|----------------------------------------------------------------------|
+| Project Manager  | Oversees timeline, coordinates team, manages deliverables              |
+| Frontend Devs    | Implements UI, ensures responsiveness                                  |
+| Backend Devs     | Builds APIs, manages databases, business logic                         |
+| Designers        | Creates mockups, manages design systems                                |
+| QA/Testers       | Writes test cases, conducts testing, logs bugs                         |
+| DevOps Engineers | Manages deployment, CI/CD, infrastructure                              |
+| Product Owner    | Defines requirements, prioritizes features                             |
+| Scrum Master     | Facilitates Agile process, removes blockers, organizes sprints         |
 
 ---
 
-## 🧱 UI Component Patterns
+## UI Component Patterns
 
-### 📍 **Navbar**
+### **Navbar**
 - Logo
 - Search bar
 - User navigation (profile, logout, etc.)
 - Responsive hamburger menu
 
-### 🏘️ **Property Card**
+### **Property Card**
 - Property image
 - Price, location, rating
 - Favorite/Like button
 - Responsive layout for mobile
 
-### 📄 **Footer**
+### **Footer**
 - Site links
 - Company info
 - Social media icons
 - Copyright
 
-> ✨ All components are designed for **reusability**, **scalability**, and **visual consistency**.
+> All components are designed for **reusability**, **scalability**, and **visual consistency**.
 
 ---
 
@@ -115,7 +115,7 @@ This project is part of the ALX Pro Frontend Program and follows academic integr
 ## 🙋🏽‍♀️ Author
 
 **Faith Kamau**  
-Frontend Developer  | AWS cloud practitioner
+Frontend Developer  | AWS Cloud Practitioner
 [GitHub](https://github.com/kamau552) • [LinkedIn](https://www.linkedin.com/in/nkamau/)
 
 ---
