@@ -1,118 +1,129 @@
-# Airbnb-clone-project
-ALX Pro frontend program project
-Project Description
-This project is a full-stack clone of the popular accommodation booking platform AirBnB. The goal is to build a functional web application that allows users to browse property listings, view detailed property information, and complete bookings. The project will cover frontend development, backend APIs, database design, and deployment.
+# 🏡 Airbnb Clone Project
 
-Tech Stack
+> **ALX Pro Frontend Program Capstone Project**
 
-   • Frontend: HTML, CSS, JavaScript (React or similar framework)
- 
-   • Version Control: Git and GitHub
- 
-   • Design Tools: Figma for UI/UX design
- 
-  1. UI/UX Design Planning
-  Design Goals
+A full-stack clone of the popular accommodation booking platform **Airbnb**. This project aims to build a functional web application where users can browse property listings, view detailed property info, and complete bookings. It integrates frontend development, backend APIs, database design, and deployment best practices.
 
- • Create intuitive booking flow
+---
 
- • Maintain visual consistency
- 
- • Ensure fast loading times
- 
- • Prioritize mobile responsiveness
+## ⚙️ Tech Stack
 
-Key Features
+- **Frontend:** HTML, CSS, JavaScript *(React or similar framework)*
+- **Version Control:** Git & GitHub
+- **Design Tools:** Figma (for UI/UX wireframes)
 
- • Property search and filtering
- 
- • Detailed property viewing
- 
- • Secure checkout process
- 
- • User authentication
- 
-Primary Pages
-Page and Description
- • Property Listing View:	Grid display of available properties with filters
- 
- • Listing Detailed View:	Complete property details with images and booking form
- 
- • Simple Checkout View: 	Streamlined payment and booking confirmation
- 
-Importance of User-Friendly Design
+---
 
-A well-designed booking system reduces friction in the user journey, increases conversion rates, and improves customer satisfaction. Clear navigation, intuitive interfaces, and responsive design are critical for success.
+## 🎯 UI/UX Design Goals
 
-Figma Design Specifications
-Color Styles:
+- Create intuitive booking flows
+- Maintain visual consistency
+- Ensure fast loading times
+- Prioritize mobile responsiveness
 
- • Primary: #FF5A5F
- 
- • Secondary: #008489
- 
- • Background: #FFFFFF
- 
- • Text: #222222
- 
- • Secondary Text: #717171
+---
 
-Typography:
+## 🚀 Key Features
 
- • Primary Font: Circular, Medium (500), 16px
- 
- • Headings: Circular, Bold (700), 24px-32px
- 
- • Secondary Text: Circular, Book (400), 14px
+- 🔍 **Property Search & Filtering**
+- 🏘️ **Detailed Property Viewing**
+- 🔒 **Secure Checkout Process**
+- 👤 **User Authentication**
 
-3. Project Roles and Responsibilities
+---
 
-• Project Manager:	Oversees timeline, coordinates team, manages deliverables
+## 🧩 Primary Pages
 
-• Frontend Developers:	Implements UI components, ensures responsive design
+| Page                  | Description                                                                 |
+|-----------------------|-----------------------------------------------------------------------------|
+| 🏘️ Property Listings   | Grid display of available properties with search and filters               |
+| 🏡 Property Details    | Full property information, gallery, and booking form                       |
+| 💳 Simple Checkout     | Streamlined payment experience with booking confirmation                   |
 
-• Backend Developers:	Builds APIs, manages database, implements business logic
+---
 
-• Designers:	Creates mockups, maintains design system, ensures UX quality
+## ✨ Importance of User-Friendly Design
 
-• QA/Testers:	Writes test cases, performs testing, reports bugs
+A smooth booking system reduces user friction, increases conversions, and enhances satisfaction. Clean navigation, intuitive UI, and responsive layouts are core to a seamless user experience.
 
-• DevOps Engineers:	Manages deployment, CI/CD pipeline, server infrastructure
+---
 
-• Product Owner:	Defines requirements, prioritizes features, represents stakeholders
+## 🎨 Figma Design Specifications
 
-• Scrum Master:	Facilitates agile processes, removes blockers, organizes meetings
+### 🎨 **Color Styles**
+| Purpose         | Hex Code    |
+|-----------------|-------------|
+| Primary         | `#FF5A5F`   |
+| Secondary       | `#008489`   |
+| Background      | `#FFFFFF`   |
+| Main Text       | `#222222`   |
+| Secondary Text  | `#717171`   |
 
-5. UI Component Patterns
-Planned Components
+### 🖋️ **Typography**
+- **Primary Font:** Circular
+- **Body Text:** Medium (500), 16px
+- **Headings:** Bold (700), 24px–32px
+- **Secondary Text:** Book (400), 14px
 
-1. Navbar
-   
-   • Logo
-   
-   • Search bar
-   
-   • User navigation
-   
-   • Responsive menu
-   
-2. Property Card
-   
-   • Property image
-   
-   • Basic details (price, location, rating)
-   
-   • Favorite button
-   
-   • Responsive layout
-   
- 3. Footer
-     • Site links
-    
-     • Company information
-    
-     • Social media links
-    
-     • Copyright information
+---
 
-Each component will be designed for reusability and consistency across the application.
+## 👥 Team Roles & Responsibilities
+
+| Role               | Responsibility                                                         |
+|--------------------|------------------------------------------------------------------------|
+| 🧠 Project Manager  | Oversees timeline, coordinates team, manages deliverables              |
+| 💻 Frontend Devs    | Implements UI, ensures responsiveness                                  |
+| 🗄️ Backend Devs     | Builds APIs, manages databases, business logic                         |
+| 🎨 Designers        | Creates mockups, manages design systems                                |
+| 🧪 QA/Testers       | Writes test cases, conducts testing, logs bugs                         |
+| ⚙️ DevOps Engineers | Manages deployment, CI/CD, infrastructure                              |
+| 📋 Product Owner    | Defines requirements, prioritizes features                             |
+| 🌀 Scrum Master     | Facilitates Agile process, removes blockers, organizes sprints         |
+
+---
+
+## 🧱 UI Component Patterns
+
+### 📍 **Navbar**
+- Logo
+- Search bar
+- User navigation (profile, logout, etc.)
+- Responsive hamburger menu
+
+### 🏘️ **Property Card**
+- Property image
+- Price, location, rating
+- Favorite/Like button
+- Responsive layout for mobile
+
+### 📄 **Footer**
+- Site links
+- Company info
+- Social media icons
+- Copyright
+
+> ✨ All components are designed for **reusability**, **scalability**, and **visual consistency**.
+
+---
+
+## 📌 License
+
+This project is part of the ALX Pro Frontend Program and follows academic integrity guidelines.
+
+---
+
+## 🙋🏽‍♀️ Author
+
+**Faith Kamau**  
+Frontend Developer  | AWS cloud practitioner
+[GitHub](https://github.com/kamau552) • [LinkedIn](https://www.linkedin.com/in/nkamau/)
+
+---
+
+## 📬 Feedback
+
+If you have suggestions or want to contribute, feel free to fork and create a pull request!
+
+---
+
+
